@@ -1,0 +1,6 @@
+CREATE TABLE finance(
+    id INT AUTOINCREMENT PRIMARY,
+    name VARCHAR(50) NOT NULL,
+    amount INT NOT NULL,
+    date DATE NOT NULL,
+)

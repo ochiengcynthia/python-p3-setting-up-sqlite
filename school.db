@@ -1,0 +1,6 @@
+CREATE TABLE school(
+    id INT AUTOINCREMENT,
+    name TEXT,
+    address TEXT,
+    PRIMARY KEY (id)
+)
